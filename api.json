@@ -1,0 +1,183 @@
+{
+    "header": [{
+        "id": "1",
+        "title": "Кому нужна магистратура?",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz"
+    },
+    {
+        "id": "2",
+        "title": "Кому нужна магистратура?",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/ot8a/bkJswBb3M"
+    },
+    {
+        "id": "3",
+        "title": "Как стать экономистом?",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/nRVm/tJ1WguAqp"
+    },
+    {
+        "id": "4",
+        "title": "Обучение на бухгалтера",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/sKac/QXcxzTNRt"
+    },
+    {
+        "id": "5",
+        "title": "Хочу учиться в университете: когда поступать?",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/X1va/9tcgMum8S"
+    },
+    {
+        "id": "6",
+        "title": "6 нелепых фильмов о студенчестве",
+        "description": "66695.",
+        "imgMax": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/jPt9/5pMEGHGmz",
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/aBTL/N8grVpsbC"
+    }
+],
+"imageText": {
+    "id": "2",
+    "title": "Ответьте на несколько вопросов и мы подберём Вам нужную программу",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/MhdR/5n1u7mK1B"
+},
+"projectText": {
+    "id": "2",
+    "title": "Узнать подробнее",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/MZaU/Rd2jZkDWC"
+},
+"imageTextTwo": {
+    "id": "2",
+    "title": "Узнать подробнее",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+"priem": [{
+    "id": "1",
+    "title": "Часто задаваемые вопросы",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/A1ay/N7mMpbnZD",
+    "dataInfo": [
+{
+    "title": "Чем отличается специалитет от бакалавриата?",
+    "description": "Для бакалавра обучение  составляет 4 года, на специалитете учатся от 5 до 6 лет (в зависимости от выбранной специальности). После бакалавриата выпускник вуза может продолжить обучение в магистратуре. Специалитет условно приравнивается к степени магистра и позволяет поступить сразу в аспирантуру. У нас есть специалитет « Экономическая безопасность»"
+},
+{
+    "title": "Можно ли после колледжа перейти сразу на второй курс ?",
+    "description": "Да, перевод возможен.Но Вы поступаете на 1 курс, сдаете разницу и вас переводят"
+},
+{
+    "title": "Как можно поступить на бух.учёт/ финансы и кредит ?",
+    "description": "Для начала вы поступаете на направление «Экономика».И на втором курсе можете выбрать ваше направление (бух.учет, Фик и  т.д)"
+}
+]},
+{
+    "id": "2",
+    "title": "Какие документы нужны для поступления?",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/sSMW/4Zzm1g514",
+    "dataInfo": [
+{
+    "title": "Необходимые документы для поступления:",
+    "description": "1. 8 цветных фотографий 3х4;\n2. Копия паспорта с пропиской;\n3. Аттестат/Диплом;\n4. Копия Снилса;\n5. Документы, подтверждающие индивидуальные достижения;"
+}]},
+{
+    "id": "3",
+    "title": "Егэ по каким дисциплинам необходимо сдавать?",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/a5Du/329z1TfSm",
+    "dataInfo": [
+{
+    "title": "тут тиле",
+    "description": "описание"
+}]},
+{
+    "id": "4",
+    "title": "Количество бюджетных мест в 2022 году",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/ZNTS/d9d1CHsvB",
+    "dataInfo": [
+{
+    "title": "тут тиле",
+    "description": "описание"
+}]},
+{
+    "id": "5",
+    "title": "Количество платных мест в 2022 году",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/F4fQ/iAfFhEpFi",
+    "dataInfo": [
+{
+    "title": "тут тиле",
+    "description": "описание"
+}]}],
+"programmsBakalavr": [{
+    "id": "30.03.01",
+    "title": "Экономика",
+    "format": "очно",
+    "year": "4 года",
+    "price": "80000",
+    "countBudz": "20 мест",
+    "countPlat": "13 мест",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "30.03.02",
+    "title": "Экономическая безопасность",
+    "format": "заочно",
+    "year": "5 лет",
+    "price": "84932",
+    "countBudz": "23 мест",
+    "countPlat": "12 мест",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "30.03.09",
+    "title": "Международные отношения",
+    "format": "очно",
+    "year": "4 года",
+    "price": "77903",
+    "countBudz": "27 мест",
+    "countPlat": "17 мест",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+}
+],
+    "facultyInformation": {
+    "url": "_2G4IACDgxw",
+    "codeOne": "",
+    "codeTwo": "",
+"infoFaculty": [{
+    "id": "2",
+    "name": "Первый name новый (картинка есть)",
+    "title": "Первый title",
+    "description": "Lorem Ipsum - это текст- рыба , часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной  рыбой  для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "2",
+    "name": "Второй name(картинка есть)",
+    "title": "Второй title",
+    "description": "Lorem Ipsum - это текст- рыба , часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной  рыбой  для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "2",
+    "name": "Третий name(картинка есть)",
+    "title": "Третий title",
+    "description": "Lorem Ipsum - это текст- рыба , часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной  рыбой  для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "2",
+    "name": "четвертый name(картинка есть)",
+    "title": "четвертый title",
+    "description": "Lorem Ipsum - это текст- рыба , часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной  рыбой  для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+},
+{
+    "id": "2",
+    "name": "новый пятый name(картинка есть)",
+    "title": "пятый title",
+    "description": "Lorem Ipsum - это текст- рыба , часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной  рыбой  для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
+}]}}
