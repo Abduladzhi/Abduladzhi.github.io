@@ -57,6 +57,10 @@
     "title": "Узнать подробнее",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
+"videoTV": [{
+    "name": "название",
+    "title": "код"
+]},
 "priem": [{
     "id": "1",
     "title": "Часто задаваемые вопросы",
