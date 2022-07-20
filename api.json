@@ -55,7 +55,11 @@
 "projectText": {
     "id": "2",
     "title": "Узнать подробнее",
-    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/MZaU/Rd2jZkDWC"
+    "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/MZaU/Rd2jZkDWC",
+    "url": "_2G4IACDgxw",
+    "name": "Тут название",
+    "description": "тут описание",
+    "image": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/MhdR/5n1u7mK1B"
 },
 "imageTextTwo": {
     "id": "2",
