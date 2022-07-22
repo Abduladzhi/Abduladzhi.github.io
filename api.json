@@ -14,7 +14,7 @@
                   "https://thumb.cloud.mail.ru/weblink/thumb/xw1/zX9L/rDa7VM4vq",
                   "https://thumb.cloud.mail.ru/weblink/thumb/xw1/rs2U/MzZ4VXjGq",
                   "https://thumb.cloud.mail.ru/weblink/thumb/xw1/M5Xt/EVXozBxUZ"],
-        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/zb6a/v3kbxL44X"
+        "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/37sR/2Gr2hXHCm"
     },
     {
         "id": "2",
@@ -220,8 +220,16 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/j21X/fZfXRvk6C",
     "dataInfo": [
 {
-    "title": "тут тиле",
-    "description": "описание"
+    "title": "Экономика и экономическая безопасноть",
+    "description": "Профильная математика - 39\n\nОбществознание - 45\n\nРусский язык - 40"
+},
+{
+    "title": "Регионоведение России",
+    "description": "Обществознание - 45\n\nРусский язык - 40\n\nИстория - 35"
+},
+{
+    "title": "Международные отношения",
+    "description": "Иностранный язык - 35\n\Русский язык - 40\n\nИстория - 35"
 }]},
 {
     "id": "4",
@@ -229,8 +237,11 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/gBBF/VgSxEuNoU",
     "dataInfo": [
 {
-    "title": "тут тиле",
-    "description": "описание"
+    "title": "Экономика(Бакалавриат)",
+    "description": "52 бюджетных места"
+},{
+    "title": "Экономика(Магистратура)",
+    "description": "10 бюджетных места"
 }]},
 {
     "id": "5",
@@ -238,8 +249,11 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/fVWE/9M8BVQYwV",
     "dataInfo": [
 {
-    "title": "тут тиле",
-    "description": "описание"
+    "title": "Экономика(Бакалавриат)",
+    "description": "60 платных мест"
+},{
+    "title": "Специалитет",
+    "description": "15 платных мест"
 }]}],
 "programmsBakalavr": [{
     "id": "38.03.01",
