@@ -85,7 +85,11 @@
         "id": "4",
         "title": "кейс чемп",
         "description": "66695.",
-        "imgMax": ["https://sun9-24.userapi.com/impf/D_6lE5hsC-s1e8m_PmbxkfLr2wq0q1qQmkwF7w/4HRIuBHsbrI.jpg?size=1200x800&quality=96&sign=96723658ae8a95f236ac2c2da152e99b&type=album",
+        "imgMax": ["https://thumb.cloud.mail.ru/weblink/thumb/xw1/PJbn/AdXrKR5aA",
+                  "https://thumb.cloud.mail.ru/weblink/thumb/xw1/GV7A/YhtZcCZA6",
+                  "https://thumb.cloud.mail.ru/weblink/thumb/xw1/qg1d/irca67ju4",
+                  "https://thumb.cloud.mail.ru/weblink/thumb/xw1/RLAM/MonhA2ZkG",
+                  "https://sun9-24.userapi.com/impf/D_6lE5hsC-s1e8m_PmbxkfLr2wq0q1qQmkwF7w/4HRIuBHsbrI.jpg?size=1200x800&quality=96&sign=96723658ae8a95f236ac2c2da152e99b&type=album",
                   "https://sun9-64.userapi.com/impf/-3e7qFwCbKLwPzKXmdZYXwqQpdzXXFkoHPCdIA/ASy7TUjH-Q0.jpg?size=1200x800&quality=96&sign=8ebfd7a56dd77dcd80074d687c20171b&type=album",
                   "https://sun9-15.userapi.com/impf/5bBSRJk6T9f4t5XR6pmY1sW4T1j7g_TyL-sUeg/DUy8rXf_siw.jpg?size=1200x800&quality=96&sign=732d84b938e14a2cc945cf4980020304&type=album",
                   "https://sun9-38.userapi.com/impf/XSrq_iuwicRup0NbijLQMf5jbCVFlZkB5jsx-g/o5l0fzgFlaY.jpg?size=1200x800&quality=96&sign=bc379eeaee36b1cd6e5a0b0ca4fef84a&type=album",
@@ -317,8 +321,8 @@
     "format": "очно",
     "year": "4 года",
     "price": "89648",
-    "countBudz": "52 мест",
-    "countPlat": "60 мест",
+    "countBudz": "52",
+    "countPlat": "60",
     "napravlenie": "\n\n- Бухгалтерский учёт, анализ и аудит\n\n- Финансы и кредит",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -328,8 +332,8 @@
     "format": "очно-заочно",
     "year": "5 лет",
     "price": "41600",
-    "countBudz": "0 мест",
-    "countPlat": "25 мест",
+    "countBudz": "0",
+    "countPlat": "25",
     "napravlenie": "\n\n- Бухгалтерский учёт, анализ и аудит\n\n- Финансы и кредит",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -339,8 +343,8 @@
     "format": "заочно",
     "year": "5 лет",
     "price": "31262",
-    "countBudz": "0 мест",
-    "countPlat": "5 мест",
+    "countBudz": "0",
+    "countPlat": "5",
     "napravlenie": "\n\n- Бухгалтерский учёт, анализ и аудит\n\n- Финансы и кредит",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -350,8 +354,8 @@
     "format": "очно-заочно",
     "year": "5 лет",
     "price": "22370",
-    "countBudz": "0 мест",
-    "countPlat": "15 мест",
+    "countBudz": "0",
+    "countPlat": "15",
     "napravlenie": "\n\n- Региональная политика и региональное управление",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -361,8 +365,8 @@
     "format": "очно",
     "year": "4 года",
     "price": "89648",
-    "countBudz": "0 мест",
-    "countPlat": "15 мест",
+    "countBudz": "0",
+    "countPlat": "15",
     "napravlenie": "\n\n- Политика, экономика и бизнес",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 }
@@ -373,8 +377,8 @@
     "format": "очно",
     "year": "5 лет",
     "price": "89648",
-    "countBudz": "0 мест",
-    "countPlat": "15 мест",
+    "countBudz": "0",
+    "countPlat": "15",
     "napravlenie": "\n\n- Судебная экономическая экспертиза",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 }
@@ -385,8 +389,8 @@
     "format": "очно",
     "year": "2 года",
     "price": "96504",
-    "countBudz": "10 мест",
-    "countPlat": "5 мест",
+    "countBudz": "10",
+    "countPlat": "5",
     "napravlenie": "\n\n- Финансовый аналитик\n\n- Государственное регулирование Экономики\n\n- Экономика фирмы и ее экономическая безопасность\n\n- Учёт, анализ и аудит\n\n- Аудит и финансовый консалтинг\n\n- Международный бизнес\n\n- Налоговое администрирование и корпоративное налоговое планирование",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -396,8 +400,8 @@
     "format": "очно-заочно",
     "year": "2 года и 3 месяца",
     "price": "43857",
-    "countBudz": "0 мест",
-    "countPlat": "80 мест",
+    "countBudz": "0",
+    "countPlat": "80",
     "napravlenie": "\n\n- Финансовый аналитик\n\n- Государственное регулирование Экономики\n\n- Экономика фирмы и ее экономическая безопасность\n\n- Учёт, анализ и аудит\n\n- Аудит и финансовый консалтинг\n\n- Международный бизнес\n\n- Налоговое администрирование и корпоративное налоговое планирование",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -407,8 +411,8 @@
     "format": "заочно",
     "year": "3 года",
     "price": "43857",
-    "countBudz": "0 мест",
-    "countPlat": "10 мест",
+    "countBudz": "0",
+    "countPlat": "10",
     "napravlenie": "\n\n- Финансовый аналитик\n\n- Государственное регулирование Экономики\n\n- Экономика фирмы и ее экономическая безопасность\n\n- Учёт, анализ и аудит\n\n- Аудит и финансовый консалтинг\n\n- Международный бизнес\n\n- Налоговое администрирование и корпоративное налоговое планирование",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -418,8 +422,8 @@
     "format": "заочно",
     "year": "3 года",
     "price": "43857",
-    "countBudz": "0 мест",
-    "countPlat": "20 мест",
+    "countBudz": "0",
+    "countPlat": "20",
     "napravlenie": "\n\n- Государственные и муниципальные финансы\n\n- Финансово-кредитное регулирование экономики",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
@@ -429,8 +433,8 @@
     "format": "очно-заочно",
     "year": "2 года и 3 месяца",
     "price": "43857",
-    "countBudz": "0 мест",
-    "countPlat": "25 мест",
+    "countBudz": "0",
+    "countPlat": "25",
     "napravlenie": "\n\n- Государственные и муниципальные финансы\n\n- Финансово-кредитное регулирование экономики",
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 }
