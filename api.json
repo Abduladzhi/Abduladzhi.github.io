@@ -329,7 +329,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "38.03.01",
+    "id": "41.03.02",
     "title": "Регионоведение России",
     "format": "очно-заочно",
     "year": "5 лет",
@@ -340,7 +340,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "38.03.01",
+    "id": "41.03.05",
     "title": "Международные отношения",
     "format": "очно",
     "year": "4 года",
@@ -352,7 +352,7 @@
 }
 ],
 "programmsSpec": [{
-    "id": "30.03.01",
+    "id": "38.04.01",
     "title": "Экономическая безопасность",
     "format": "очно",
     "year": "4 года",
@@ -364,7 +364,7 @@
 }
 ],
 "programmsMag": [{
-    "id": "30.03.01",
+    "id": "38.04.01",
     "title": "Экономика",
     "format": "очно",
     "year": "2 года",
@@ -375,7 +375,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "30.03.01",
+    "id": "38.04.01",
     "title": "Экономика",
     "format": "очно-заочно",
     "year": "2 года и 3 месяца",
@@ -386,7 +386,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "30.03.01",
+    "id": "38.04.01",
     "title": "Экономика",
     "format": "заочно",
     "year": "3 года",
@@ -397,7 +397,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "30.03.01",
+    "id": "38.04.08",
     "title": "Финансы и кредит",
     "format": "заочно",
     "year": "3 года",
@@ -408,7 +408,7 @@
     "imgMin": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/2bUK/e7jUH3Fxp"
 },
 {
-    "id": "30.03.01",
+    "id": "38.04.08",
     "title": "Финансы и кредит",
     "format": "очно-заочно",
     "year": "2 года и 3 месяца",
