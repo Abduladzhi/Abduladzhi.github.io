@@ -13,54 +13,47 @@
     "image":[{"name":"111"},
              {"name":"222"},
              {"name":"121312"},
-             {"name":"32131"}]
+             {"name":"32131"},
+            {"name":"32131"}]
 },{
     "cell": "cellSecond",
     "text":"Проверка2",
     "image":[{"name":"111"},
              {"name":"222"},
-             {"name":"121312"},
-             {"name":"32131"}]
+             {"name":"121312"}]
 },{
     "cell": "cellThree",
     "text":"Проверка3",
     "image":[{"name":"111"},
              {"name":"222"},
              {"name":"121312"},
-             {"name":"32131"}]
+             {"name":"32131"},
+            {"name":"32131"},
+            {"name":"32131"}]
+},{
+    "cell": "cellSecond",
+    "text":"Проверка2",
+    "image":[{"name":"111"}]
+},{
+    "cell": "cellOne",
+    "text":"Проверка1",
+    "image":[{"name":"111"},
+             {"name":"222"}]
 },{
     "cell": "cellSecond",
     "text":"Проверка2",
     "image":[{"name":"111"},
              {"name":"222"},
              {"name":"121312"},
-             {"name":"32131"}]
+             {"name":"32131"},
+            {"name":"32131"},
+            {"name":"32131"}]
 },{
     "cell": "cellOne",
     "text":"Проверка1",
-    "image":[{"name":"111"},
-             {"name":"222"},
-             {"name":"121312"},
-             {"name":"32131"}]
-},{
-    "cell": "cellSecond",
-    "text":"Проверка2",
-    "image":[{"name":"111"},
-             {"name":"222"},
-             {"name":"121312"},
-             {"name":"32131"}]
-},{
-    "cell": "cellOne",
-    "text":"Проверка1",
-    "image":[{"name":"111"},
-             {"name":"222"},
-             {"name":"121312"},
-             {"name":"32131"}]
+    "image":[{"name":"111"}]
 },{
     "cell": "cellBot",
     "text":"Проверка1",
-    "image":[{"name":"111"},
-             {"name":"222"},
-             {"name":"121312"},
-             {"name":"32131"}]}
+    "image":[{"name":"111"}]}
 ]}
