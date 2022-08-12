@@ -531,5 +531,9 @@
     "versionInfo": {
     "version": "1.0",
     "build": "7"
-}
+},
+    "geolokation": {
+        "latitude": "42.979347",
+        "longitude": "47.496759"
+    }
 }
